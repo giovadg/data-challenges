@@ -1,5 +1,13 @@
-The repository contains two data science projects
+### Overview
 
-1) USA corn yield prediction
+This repository contains two quantitative-data science projects:
 
-2) QRT datachallenge on electricity price forecast (not finished yet)
+ - USA corn yield prediction
+ - QRT datachallenge on electricity price forecast (ongoing)
+
+## USA corn yield 
+description..
+
+
+## QRT datachallenge on electricity price
+description..
